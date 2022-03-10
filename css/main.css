@@ -442,9 +442,9 @@ header div h1 a {
 .info ul {display: flex; margin-top: 30px;}
 .info ul li:first-of-type {
     /* background-color: #333; */
-    background: rgb(247,237,225);
-    background: linear-gradient(180deg, rgba(247,237,225,1) 0%, rgba(212,171,139,1) 35%, rgba(74,41,14,1) 83%);
-    border: 1px solid rgb(107, 66, 40);
+    background: rgb(238,210,177);
+    background: linear-gradient(180deg, rgba(238,210,177,1) 0%, rgba(212,171,139,1) 45%, rgba(142,94,55,1) 100%);
+    border: 1px solid rgba(142,94,55,1);
 }
 
 .info ul li {
